@@ -6,7 +6,7 @@ namespace Tyuiu.Kkhalid.Sprint1.Task1.V25
     class Program
     {
         static void Main(string[] args)
-        {
+        { 
             DataService ds = new DataService();
 
             Console.WriteLine("***************************************************************************");

@@ -7,7 +7,7 @@ namespace Tyuiu.Kkhalid.Sprint1.Task1.V25.Test
     public class DataServiceTest
     {
         [TestMethod]
-        public void ValidExpression()
+        public void ValidExpression() 
         {
             DataService ds = new DataService();
             double x = 2.0;
